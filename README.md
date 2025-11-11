@@ -31,3 +31,5 @@ Covid-19 Dashboard.pbix   → Power BI file containing data model, visuals, and 
 Ayaz Khan
 📧 ayazriyazahmedkhan@gmail.com
 🌐 https://www.linkedin.com/in/ayazriyazkhan
+<img width="960" height="537" alt="image" src="https://github.com/user-attachments/assets/a4bdb4b5-a681-41a8-aaab-8fa677b358bb" />
+
