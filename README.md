@@ -32,4 +32,6 @@ Ayaz Khan
 📧 ayazriyazahmedkhan@gmail.com
 🌐 https://www.linkedin.com/in/ayazriyazkhan
 <img width="960" height="537" alt="image" src="https://github.com/user-attachments/assets/a4bdb4b5-a681-41a8-aaab-8fa677b358bb" />
+<img width="1220" height="592" alt="image" src="https://github.com/user-attachments/assets/ba6f00b8-97b1-434d-8fb8-9d4c3f100059" />
+
 
